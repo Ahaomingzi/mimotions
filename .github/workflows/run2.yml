@@ -8,11 +8,11 @@ on:
   workflow_dispatch:
     inputs:
       user:
-        description: '用户名'
+        description: '3051264707@qq.com'
         required: true
         default: ''
       pwd:
-        description: '密码'
+        description: 'v587chang'
         required: true
         default: ''
 
